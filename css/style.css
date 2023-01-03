@@ -1,6 +1,13 @@
 body{
-  background-color: aqua;
+  background-color: chartreuse;
 }
 .ex{
   color: brown;
+}
+.ex1{
+  color: royalblue;
+  background-color: aquamarine;
+  border: 2px solid black;
+  box-shadow: 10px 10px 10px gray;
+  text-align: center;
 }
